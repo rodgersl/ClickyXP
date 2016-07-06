@@ -1,0 +1,25 @@
+{
+  "name": "clickyxp",
+  "version": "0.0.1",
+  "description": "ClickyXP Web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodgersl/ClickyXP.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Louis Rodgers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodgersl/ClickyXP/issues"
+  },
+  "homepage": "https://github.com/rodgersl/ClickyXP#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
